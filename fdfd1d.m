@@ -1,4 +1,5 @@
 anim_fields = true;
+addpath(genpath('./puslse.m'));
 %pause(10);
 min_lambda = 2;
 dmin = 3000.48;
